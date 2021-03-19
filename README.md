@@ -1,5 +1,7 @@
 ### Hi,  😄welcome to my github.
 
+从github克隆太慢，替换 github （https://github.com/）域名为 https://github.com.cnpmjs.org/
+
 ---
 
 <h3>一些很牛的项目</h3>  
